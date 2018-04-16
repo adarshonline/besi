@@ -21,9 +21,9 @@ PM_START_TEXT = """
 Hi {}, my name is {}! I'm a group manager bot maintained by [this wonderful person](tg://user?id={}).
 I'm built in python3, using the python-telegram-bot library, !
 
-Feel free  to contact my support group, @dbestech, with any bugs, questions \
+Feel free  to contact my support group, @techvilla, with any bugs, questions \
 or feature requests you might have :)
-
+For News visit our channel @dbestechno
 
 You can find the list of available commands with /help.
 
